@@ -1,0 +1,22 @@
+.thumbail-con {
+  width: 23%;
+  padding: 0;
+  margin: 0 3px 0 3px;
+}
+@media screen and (min-width:500px){
+.thumbail-con{
+    width: 18%;
+}
+}
+.button {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  padding: 0;
+  width: 100%;
+}
+
+.image {
+  width: 100%;
+}
